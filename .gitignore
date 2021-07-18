@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CheckGit/.vs/CheckGit/v16
+/CheckGit/CheckGitWeb/obj
